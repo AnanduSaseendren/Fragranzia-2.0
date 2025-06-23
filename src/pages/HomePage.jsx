@@ -60,7 +60,7 @@ function HomePage() {
         </div>
       </div>
       <ExploreCategories />
-      <OffersCarousel />
+      <FeaturedCarousel />
       <div className='p-20'>
         <div className="bg-gradient-to-r from-[#d6f0fd] to-[#e0f5fc] rounded-xl p-6 flex flex-col md:flex-row items-center justify-between overflow-hidden">
           <div className="mb-4 md:mb-0 md:w-1/2">
